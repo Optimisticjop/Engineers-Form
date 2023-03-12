@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: rgba(90, 88, 88, 0.5);
+}
+
+#main-header {
+    text-transform: uppercase;
+}
+
+.nat {
+    text-align: center;
+    background-color: blue;
+    color: black;
+    padding: 20px;
+    font-size: 40px;
+}
+
+.btn {
+    margin: 20px;
+    padding: 10px;
+    background: blue;
+    color: white;
+}
+
+.form {
+    padding: 0.5%;
+    margin: 5%;
+}
